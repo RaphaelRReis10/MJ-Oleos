@@ -1,0 +1,2118 @@
+PRD — MJ ÓLEOS LUBRIFICANTES
+Product Requirements Document + Especificação de UI/UX e Desenvolvimento
+
+Versão: 2.0
+Status: Pronto para desenvolvimento
+Tipo de projeto: Site institucional / comercial
+Empresa: MJ Óleos Lubrificantes
+Segmento: Troca de óleo e manutenção automotiva
+Localização: Belo Horizonte — MG
+Ano de fundação: 2021
+
+1. Visão Geral do Projeto
+
+Desenvolver um site institucional moderno, profissional, rápido, responsivo e orientado à conversão para a MJ Óleos Lubrificantes, empresa especializada principalmente em troca de óleo e lubrificantes automotivos para veículos de linha leve, com atuação complementar em manutenção automotiva e injeção eletrônica.
+
+O site deve transmitir:
+
+Confiança
+Segurança
+Profissionalismo
+Organização
+Especialização
+Modernidade
+Transparência
+Proximidade
+
+O projeto deve evitar completamente a aparência de um site genérico de oficina mecânica.
+
+A experiência deve combinar:
+
+estética automotiva + tecnologia + confiança + conversão.
+
+O principal objetivo comercial do site é levar o usuário ao WhatsApp.
+
+2. Objetivo Principal
+
+Transformar o site em um canal digital capaz de:
+
+Apresentar a MJ Óleos.
+Demonstrar sua especialização em troca de óleo.
+Apresentar os serviços.
+Construir confiança.
+Mostrar localização.
+Facilitar contato.
+Gerar conversas no WhatsApp.
+Apoiar campanhas de Google Ads e Meta Ads.
+Fortalecer o SEO local.
+Servir como presença digital oficial da empresa.
+3. Objetivos Secundários
+
+O site também deve:
+
+Fortalecer a marca.
+Apresentar a história da empresa.
+Destacar o conceito HFS.
+Integrar os dois perfis do Instagram.
+Facilitar acesso ao Google Maps.
+Permitir futuras campanhas de tráfego pago.
+Permitir medição de conversões.
+Criar estrutura para expansão futura do SEO.
+Permitir futura criação de páginas individuais para serviços.
+4. Informações da Empresa
+Nome
+
+MJ Óleos Lubrificantes
+
+Ano de início
+
+2021
+
+Segmento
+Troca de óleo
+Lubrificantes automotivos
+Manutenção automotiva
+Injeção eletrônica
+Linha leve
+Endereço
+
+R. Maria Felícia, 13 - Sarandi, Belo Horizonte - MG, 31360-100
+
+WhatsApp
+
+(31) 98994-2772
+
+Link:
+
+https://wa.me/5531989942772
+Instagram — Óleos
+
+@MJOLEOS
+
+Instagram — Mecânica
+
+@MJMECANICAOFICIAL
+
+5. Descrição Institucional
+
+Utilizar como base de conteúdo:
+
+Fundada em 2021, a MJ Óleos é uma empresa com o objetivo de trazer soluções para o setor de troca de óleo e lubrificantes automotivos para carros da linha leve.
+
+Somos uma empresa familiar que tem como lema HFS — Honestidade, Família e Segurança — prezando pela troca preventiva e pelo melhor funcionamento dos veículos.
+
+Além da especialização em troca de óleo, contamos com uma extensão em nosso pátio onde oferecemos serviços de manutenção em veículos de linha leve, incluindo motores, injeção eletrônica e suspensão, proporcionando um local completo para solucionar diferentes necessidades do seu veículo.
+
+O texto pode ser refinado pelo designer/desenvolvedor para melhorar legibilidade, mas sem alterar o posicionamento da empresa.
+
+6. Serviços Principais
+
+O site deve apresentar claramente:
+
+Serviço principal
+
+Troca de óleo e lubrificantes
+
+Serviços complementares
+Manutenção automotiva
+Injeção eletrônica
+Manutenção de motor
+Suspensão
+
+O projeto não deve apresentar todos os serviços como se possuíssem a mesma importância comercial.
+
+A hierarquia deve ser:
+
+1. TROCA DE ÓLEO
+2. MANUTENÇÃO AUTOMOTIVA
+3. INJEÇÃO ELETRÔNICA
+4. MOTOR
+5. SUSPENSÃO
+7. Posicionamento
+
+A MJ deve ser percebida como:
+
+Uma empresa especializada em troca de óleo que também oferece uma estrutura completa de manutenção para veículos de linha leve.
+
+Não posicionar simplesmente como:
+
+"Mais uma oficina mecânica."
+
+A especialização em troca de óleo precisa aparecer várias vezes ao longo da experiência.
+
+8. Conceito da Marca — HFS
+
+O conceito institucional da empresa é:
+
+HFS
+Honestidade
+
+Transparência na relação com o cliente.
+
+Família
+
+Empresa familiar com relacionamento próximo.
+
+Segurança
+
+Foco em manutenção preventiva e funcionamento adequado do veículo.
+
+Esse conceito deve possuir destaque visual próprio.
+
+9. Público-Alvo
+Público primário
+
+Proprietários de veículos de linha leve.
+
+Necessidades
+
+Usuários que precisam:
+
+Trocar óleo.
+Verificar lubrificantes.
+Fazer manutenção preventiva.
+Resolver problemas mecânicos.
+Fazer diagnóstico.
+Fazer manutenção de injeção eletrônica.
+Avaliar motor.
+Avaliar suspensão.
+Intenção do usuário
+
+Muitos visitantes chegarão ao site já sabendo o que precisam.
+
+Portanto, o site deve permitir que o usuário encontre rapidamente:
+
+serviço → confiança → contato.
+
+10. Identidade Visual
+
+A identidade visual deve ser baseada principalmente em:
+
+Azul
+
+Cor institucional dominante.
+
+Sugestão:
+
+#123B63
+Branco
+#FFFFFF
+Azul escuro
+#0B243D
+Laranja
+#E35030
+Cinza claro
+#F4F6F8
+Cinza
+#68737D
+Preto
+#161616
+11. Regra de Distribuição das Cores
+
+A proporção visual aproximada deve ser:
+
+AZUL + BRANCO
+→ cores dominantes
+
+LARANJA
+→ cor de ação
+
+CINZA
+→ suporte
+
+PRETO
+→ pequenos detalhes
+
+O laranja não deve dominar a interface.
+
+Utilizar #E35030 principalmente para:
+
+CTA
+Hover
+Ícones
+Indicadores
+Linhas
+Pequenos destaques
+Elementos interativos
+
+A intenção é fazer o laranja comunicar:
+
+AÇÃO
+
+12. Direção Visual
+
+O site deve possuir estética:
+
+Moderna
+Automotiva
+Tecnológica
+Profissional
+Limpa
+Robusta
+Confiável
+Dinâmica
+Evitar
+Visual antigo de oficina.
+Excesso de vermelho/laranja.
+Gradientes exagerados.
+Animações excessivas.
+Carros genéricos demais.
+Cliparts.
+Ícones infantis.
+Excesso de sombras.
+Excesso de texto.
+Layout com aparência de template.
+13. Tipografia
+
+Sugestão:
+
+Títulos
+
+Barlow Condensed
+
+Corpo
+
+Inter
+
+A combinação deve criar uma identidade:
+
+automotiva + moderna + legível.
+
+Utilizar pesos diferentes para criar hierarquia.
+
+14. Estrutura Geral do Site
+
+O site inicialmente será uma one-page institucional/comercial.
+
+Estrutura:
+
+HEADER
+↓
+HERO
+↓
+PROVA / INDICADORES
+↓
+ESPECIALISTA EM TROCA DE ÓLEO
+↓
+SOBRE
+↓
+HFS
+↓
+SERVIÇOS
+↓
+MANUTENÇÃO PREVENTIVA
+↓
+SEÇÃO VISUAL
+↓
+INSTAGRAM
+↓
+CTA
+↓
+LOCALIZAÇÃO
+↓
+FOOTER
+15. Header
+
+Header fixo/sticky.
+
+Desktop
+LOGO
+
+Início
+Sobre
+Serviços
+HFS
+Instagram
+Contato
+
+[ WHATSAPP ]
+
+O CTA do WhatsApp deve ser visualmente mais destacado.
+
+16. Header — Comportamento
+
+Estado inicial:
+
+Fundo azul.
+Logo.
+Menu.
+CTA laranja.
+
+Ao rolar:
+
+Header continua fixo.
+Pode reduzir levemente a altura.
+Aplicar sombra discreta.
+Pode utilizar backdrop blur.
+Não deve ocupar muito espaço.
+
+Transição:
+
+250ms–350ms
+17. Header Mobile
+
+No mobile:
+
+LOGO                     ☰
+
+Ao clicar:
+
+Menu fullscreen ou drawer.
+
+Itens:
+
+Início
+Sobre
+Serviços
+HFS
+Instagram
+Contato
+
+CTA:
+
+FALAR NO WHATSAPP
+
+Após clicar em um link:
+
+Fechar menu.
+Fazer scroll suave.
+18. Hero
+
+Essa é a seção mais importante visualmente.
+
+Objetivo:
+
+Em aproximadamente 3 segundos o visitante deve entender:
+
+empresa + serviço + localização + ação.
+
+Headline
+
+Troca de óleo e manutenção automotiva em Belo Horizonte
+
+Subheadline
+
+Cuidado, segurança e atendimento transparente para veículos de linha leve.
+
+CTA Principal
+
+AGENDAR PELO WHATSAPP
+
+Link:
+
+https://wa.me/5531989942772
+CTA Secundário
+
+CONHEÇA NOSSOS SERVIÇOS
+
+Scroll para serviços.
+
+19. Hero — Visual
+
+Utilizar fotografia real da oficina sempre que possível.
+
+Prioridade:
+
+foto real da MJ
+>
+foto profissional de oficina
+>
+stock photo
+
+A imagem pode mostrar:
+
+Mecânico trabalhando.
+Troca de óleo.
+Motor.
+Elevador.
+Veículo sendo atendido.
+
+Aplicar:
+
+Overlay azul escuro.
+Contraste.
+Pequenos detalhes geométricos.
+Elementos técnicos discretos.
+20. Hero — Animação
+
+Entrada:
+
+Headline:
+
+opacity: 0 → 1
+translateY(25px) → 0
+
+Subheadline:
+
+fade.
+
+CTA:
+
+fade + translateY.
+
+Imagem:
+
+fade/scale leve.
+
+Não utilizar animação exagerada.
+
+21. Barra de Indicadores
+
+Logo abaixo do Hero.
+
+Quatro indicadores:
+
+DESDE 2021
+
+Experiência desde a fundação da empresa.
+
+TROCA DE ÓLEO
+
+Especialização principal.
+
+LINHA LEVE
+
+Foco em veículos de linha leve.
+
+MANUTENÇÃO
+
+Estrutura complementar.
+
+22. Seção — Especialistas em Troca de Óleo
+
+Título:
+
+Mais do que trocar o óleo. É cuidar do seu carro.
+
+Texto:
+
+A troca de óleo é uma das principais formas de manutenção preventiva do veículo. Na MJ Óleos, o objetivo é oferecer um atendimento transparente e responsável, ajudando você a manter o funcionamento adequado do seu carro.
+
+23. Benefícios da Troca de Óleo
+
+Cards:
+
+Lubrificação adequada
+
+O óleo correto ajuda no funcionamento do motor.
+
+Manutenção preventiva
+
+A troca periódica faz parte dos cuidados preventivos do veículo.
+
+Atendimento transparente
+
+Orientação clara durante o atendimento.
+
+Cuidado com o veículo
+
+Serviço realizado com atenção às necessidades do carro.
+
+24. Seção Sobre
+
+Título:
+
+Conheça a MJ Óleos
+
+Layout:
+
+IMAGEM
+      +
+TEXTO
+
+Texto baseado na história institucional.
+
+Adicionar:
+
+Desde 2021
+
+25. Seção HFS
+
+Criar bloco visual forte:
+
+HFS
+
+Honestidade • Família • Segurança
+
+Três cards.
+
+Honestidade
+
+Transparência em cada atendimento e orientação clara sobre os serviços necessários.
+
+Família
+
+Uma empresa familiar que valoriza relações duradouras com seus clientes.
+
+Segurança
+
+Cuidado preventivo para contribuir com o bom funcionamento do veículo.
+
+26. Serviços
+
+Título:
+
+Soluções para cuidar do seu carro
+
+Subtítulo:
+
+Da troca de óleo à manutenção automotiva, conte com uma estrutura preparada para veículos de linha leve.
+
+27. Card — Troca de Óleo
+
+Esse deve ser o card de maior destaque.
+
+Título:
+
+Troca de Óleo
+
+Descrição:
+
+Troca de óleo e lubrificantes para ajudar a manter o motor protegido e funcionando adequadamente.
+
+CTA:
+
+AGENDAR
+
+O card pode possuir uma borda ou detalhe laranja.
+
+28. Card — Manutenção Automotiva
+
+Serviços de manutenção para veículos de linha leve, ajudando na conservação e funcionamento do veículo.
+
+29. Card — Injeção Eletrônica
+
+Diagnóstico e manutenção do sistema de injeção eletrônica do veículo.
+
+30. Card — Motor
+
+Serviços relacionados à manutenção e funcionamento do motor.
+
+31. Card — Suspensão
+
+Cuidados e manutenção dos componentes da suspensão.
+
+32. Hover dos Cards
+
+Todos os cards devem possuir interação.
+
+Normal:
+
+border: transparente
+
+Hover:
+
+transform: translateY(-8px)
+border: #E35030
+
+Além disso:
+
+Ícone muda para laranja.
+Sombra aumenta.
+Pequeno detalhe gráfico aparece.
+Transição 300ms.
+33. Manutenção Preventiva
+
+Título:
+
+Não espere o problema aparecer.
+
+Texto:
+
+A manutenção preventiva ajuda a identificar necessidades do veículo antes que pequenos desgastes se transformem em problemas maiores.
+
+Itens:
+
+01 — Mais tranquilidade
+
+02 — Melhor conservação
+
+03 — Identificação antecipada
+
+04 — Cuidado com o motor
+
+CTA:
+
+FALAR COM A MJ
+
+34. Seção Visual
+
+Criar uma seção de impacto visual.
+
+Imagem full width.
+
+Overlay azul escuro.
+
+Texto:
+
+Seu carro merece cuidado de verdade.
+
+Subtexto:
+
+Conte com a MJ Óleos para cuidar do seu veículo.
+
+CTA:
+
+FALAR NO WHATSAPP
+
+35. Instagram
+
+Título:
+
+Acompanhe a MJ nas redes
+
+Apresentar os dois perfis separadamente.
+
+MJ Óleos
+
+@MJOLEOS
+
+Descrição:
+
+Conteúdos sobre troca de óleo, lubrificantes e cuidados com o veículo.
+
+Botão:
+
+SEGUIR NO INSTAGRAM
+
+MJ Mecânica
+
+@MJMECANICAOFICIAL
+
+Descrição:
+
+Conteúdos sobre manutenção automotiva e serviços mecânicos.
+
+Botão:
+
+SEGUIR NO INSTAGRAM
+
+36. Galeria
+
+Caso existam fotos suficientes, adicionar uma galeria.
+
+Grid:
+
+Desktop:
+
+3 × 2
+
+Mobile:
+
+2 × 3
+
+Hover:
+
+Zoom 1.04.
+Overlay azul.
+Ícone Instagram/câmera.
+Transição suave.
+
+Priorizar fotos reais da empresa.
+
+37. CTA Principal
+
+Background:
+
+#123B63
+
+Título:
+
+Precisa trocar o óleo ou fazer uma manutenção?
+
+Subtítulo:
+
+Fale com a equipe da MJ Óleos e saiba como podemos ajudar.
+
+Botão:
+
+FALAR PELO WHATSAPP
+
+Botão laranja.
+
+38. WhatsApp
+
+Número:
+
+(31) 98994-2772
+
+Link:
+
+https://wa.me/5531989942772
+
+Mensagem automática:
+
+Olá! Vim pelo site da MJ Óleos e gostaria de saber mais sobre os serviços.
+
+39. WhatsApp Flutuante
+
+Adicionar botão fixo no canto inferior direito.
+
+Desktop:
+
+~60px.
+
+Mobile:
+
+~56px.
+
+Visual:
+
+Verde do WhatsApp para reconhecimento imediato ou tratamento coerente com a interface, sem alterar a identidade principal.
+Ícone WhatsApp.
+Sombra.
+Pequeno pulse.
+
+Hover:
+
+Fale conosco
+
+O botão deve permanecer acima dos demais elementos.
+
+40. Localização
+
+Título:
+
+Onde estamos
+
+Endereço:
+
+R. Maria Felícia, 13 - Sarandi, Belo Horizonte - MG, 31360-100
+
+Telefone:
+
+(31) 98994-2772
+
+Layout:
+
+INFORMAÇÕES       GOOGLE MAPS
+
+CTA:
+
+COMO CHEGAR
+
+Abrir Google Maps.
+
+41. SEO Local
+
+O site deverá ser otimizado principalmente para:
+
+Região
+
+Belo Horizonte — MG
+
+Bairro
+
+Sarandi
+
+Intenções
+Troca de óleo em Belo Horizonte
+Troca de óleo no Sarandi
+Oficina mecânica em Belo Horizonte
+Oficina mecânica no Sarandi
+Manutenção automotiva em Belo Horizonte
+Injeção eletrônica em Belo Horizonte
+Lubrificantes automotivos em Belo Horizonte
+
+As palavras-chave devem ser utilizadas naturalmente.
+
+Não fazer keyword stuffing.
+
+42. SEO Title
+MJ Óleos Lubrificantes | Troca de Óleo em Belo Horizonte
+43. Meta Description
+Troca de óleo, lubrificantes e manutenção automotiva para veículos de linha leve em Belo Horizonte. Conheça a MJ Óleos e agende seu atendimento.
+44. Estrutura de Headings
+
+Somente um H1.
+
+H1
+
+Troca de óleo e manutenção automotiva em Belo Horizonte
+
+H2
+Especialistas em troca de óleo
+Conheça a MJ Óleos
+Honestidade, Família e Segurança
+Nossos serviços
+Manutenção preventiva
+Acompanhe a MJ nas redes
+Onde estamos
+
+H3 para subelementos.
+
+45. SEO Técnico
+
+Implementar:
+
+Title.
+Meta description.
+Canonical.
+Open Graph.
+Twitter/X Card.
+Sitemap.
+Robots.txt.
+URLs amigáveis.
+HTML semântico.
+Alt text.
+Schema.org.
+Breadcrumb quando necessário.
+Compressão de imagens.
+46. Schema.org
+
+Utilizar dados estruturados compatíveis com:
+
+AutoRepair
+
+Dados:
+
+name
+address
+telephone
+url
+image
+sameAs
+geo
+openingHours
+
+sameAs:
+
+Instagram MJ Óleos
+Instagram MJ Mecânica
+
+Não inventar informações que não tenham sido fornecidas.
+
+47. Google Business Profile
+
+O site deve manter consistência com o Google Business Profile.
+
+Informações importantes:
+
+Nome.
+Endereço.
+Telefone.
+Horários.
+Categoria.
+Site.
+Instagram.
+
+O endereço deve ser exatamente:
+
+R. Maria Felícia, 13 - Sarandi, Belo Horizonte - MG, 31360-100
+
+48. SEO Futuro
+
+A arquitetura deve permitir posteriormente criar páginas específicas:
+
+/troca-de-oleo
+/manutencao-automotiva
+/injecao-eletronica
+
+Essas páginas poderão ser utilizadas em campanhas de Google Ads e estratégias de SEO.
+
+Não é obrigatório desenvolver essas páginas na primeira versão.
+
+49. Formulário
+
+Adicionar formulário simples.
+
+Campos:
+
+Nome
+
+Obrigatório.
+
+Telefone
+
+Obrigatório.
+
+Serviço
+
+Dropdown:
+
+Troca de óleo
+Manutenção automotiva
+Injeção eletrônica
+Motor
+Suspensão
+Outro
+Mensagem
+
+Opcional.
+
+CTA:
+
+SOLICITAR ATENDIMENTO
+
+50. Formulário — UX
+
+Estado normal:
+
+Formulário limpo.
+
+Erro:
+
+Mostrar mensagem abaixo do campo.
+
+Exemplo:
+
+Informe seu nome.
+
+Sucesso:
+
+Mensagem enviada com sucesso!
+
+Erro geral:
+
+Não foi possível enviar sua mensagem. Tente novamente ou fale conosco pelo WhatsApp.
+
+Loading:
+
+Botão:
+
+ENVIANDO...
+
+Desabilitar múltiplos envios.
+
+51. Conversão
+
+Distribuir CTAs ao longo da página.
+
+Principais:
+
+Agendar pelo WhatsApp.
+Falar com a MJ.
+Quero trocar o óleo.
+Solicitar atendimento.
+Como chegar.
+
+Evitar utilizar apenas:
+
+Saiba mais
+
+como CTA principal.
+
+52. Jornada do Usuário
+
+Fluxo esperado:
+
+Google / Instagram / indicação
+              ↓
+            HERO
+              ↓
+       ENTENDIMENTO
+              ↓
+     TROCA DE ÓLEO
+              ↓
+        BENEFÍCIOS
+              ↓
+          SERVIÇOS
+              ↓
+        CREDIBILIDADE
+              ↓
+             HFS
+              ↓
+            CTA
+              ↓
+          WHATSAPP
+53. Microinterações
+
+Todos os elementos interativos devem possuir feedback visual.
+
+Botões
+
+Hover:
+
+Pequena alteração de escala.
+Mudança de tonalidade.
+Sombra.
+Links
+
+Hover:
+
+Laranja.
+Underline animado.
+Cards
+
+Hover:
+
+Elevação.
+Borda.
+Ícone.
+54. Animações
+
+Utilizar:
+
+Fade.
+Fade Up.
+Scale leve.
+Slide discreto.
+
+Duração:
+
+400ms–700ms
+
+Evitar:
+
+Parallax pesado.
+Animações infinitas.
+Elementos piscando.
+Movimento excessivo.
+Vídeos automáticos pesados.
+
+O site deve parecer premium, não um showcase de animações.
+
+55. Scroll Reveal
+
+As seções devem aparecer progressivamente conforme entram na viewport.
+
+Exemplo:
+
+opacity: 0 → 1
+translateY(25px) → 0
+
+Respeitar:
+
+prefers-reduced-motion
+
+Usuários que solicitarem redução de movimento devem receber uma experiência sem animações desnecessárias.
+
+56. Performance
+
+Performance é requisito obrigatório.
+
+Priorizar:
+
+WebP.
+AVIF quando apropriado.
+Lazy loading.
+Imagens dimensionadas corretamente.
+Minificação.
+Code splitting.
+CSS otimizado.
+JS mínimo.
+Font loading eficiente.
+Evitar bibliotecas desnecessárias.
+57. Core Web Vitals
+
+Buscar bom desempenho em:
+
+LCP
+CLS
+INP
+
+O site deve ser desenvolvido pensando em experiência real de navegação, não somente em pontuação artificial.
+
+58. Responsividade
+
+Breakpoints mínimos:
+
+360px
+375px
+390px
+414px
+430px
+
+768px
+1024px
+
+1366px
+1440px
+1920px
+
+Não simplesmente reduzir o desktop.
+
+O layout mobile deve ser projetado especificamente.
+
+59. Mobile
+
+No mobile:
+
+Header compacto.
+Menu hamburger.
+CTA acessível.
+Cards em uma coluna.
+Imagens adaptadas.
+Texto confortável.
+Botões grandes.
+WhatsApp flutuante.
+Sem overflow horizontal.
+60. Desktop
+
+Desktop deve utilizar o espaço horizontal de maneira eficiente.
+
+Evitar:
+
+Conteúdo excessivamente estreito.
+Textos muito largos.
+Cards gigantes.
+Espaços vazios sem propósito.
+
+Container recomendado:
+
+max-width: 1200–1280px
+
+dependendo da seção.
+
+61. Acessibilidade
+
+Implementar:
+
+Contraste adequado.
+Alt text.
+Navegação por teclado.
+Focus states.
+Labels.
+Botões semanticamente corretos.
+aria-label quando necessário.
+Áreas clicáveis adequadas.
+Respeito a prefers-reduced-motion.
+62. Performance de Imagens
+
+Todas as imagens devem:
+
+Possuir dimensões apropriadas.
+Ser comprimidas.
+Usar formatos modernos.
+Ter alt.
+Utilizar lazy loading quando apropriado.
+
+Não carregar imagens gigantes para elementos pequenos.
+
+63. Segurança
+
+Implementar:
+
+HTTPS.
+Sanitização de formulário.
+Proteção contra spam.
+CAPTCHA quando necessário.
+Validação client/server.
+Atualização das dependências.
+Proteção contra XSS.
+Proteção contra submissões automatizadas.
+64. Analytics
+
+Preparar Google Analytics 4.
+
+Eventos:
+
+whatsapp_click
+instagram_click
+maps_click
+form_submit
+service_click
+65. Rastreamento de WhatsApp
+
+Cada CTA pode possuir identificação própria.
+
+Exemplos:
+
+hero_whatsapp
+services_whatsapp
+cta_whatsapp
+floating_whatsapp
+
+Isso permite descobrir qual CTA gera mais interações.
+
+66. Google Tag Manager
+
+Se possível, estruturar o projeto para utilização de GTM.
+
+Isso permitirá adicionar futuramente:
+
+Google Ads conversion tracking.
+Meta Pixel.
+Eventos personalizados.
+Remarketing.
+
+Sem precisar alterar significativamente o código do site.
+
+67. Meta Pixel
+
+Preparar estrutura para instalação futura do Meta Pixel.
+
+Eventos potenciais:
+
+PageView
+Contact
+Lead
+
+Não é obrigatório instalar se o cliente ainda não possuir o pixel configurado.
+
+68. Open Graph
+
+Configurar compartilhamento social.
+
+Título:
+
+MJ Óleos Lubrificantes | Troca de Óleo em Belo Horizonte
+
+Descrição:
+
+Troca de óleo, lubrificantes e manutenção automotiva para veículos de linha leve.
+
+Imagem:
+
+Logo ou imagem profissional da oficina.
+
+69. Favicon
+
+Criar favicon baseado na identidade da MJ.
+
+Preferencialmente:
+
+Símbolo da marca.
+Logo simplificado.
+Alto contraste.
+70. Footer
+
+Background:
+
+#0B243D
+
+Conteúdo:
+
+Logo.
+
+Descrição:
+
+Troca de óleo, lubrificantes e manutenção automotiva para veículos de linha leve.
+
+Links:
+
+Início
+Sobre
+Serviços
+HFS
+Instagram
+Contato
+
+Redes:
+
+@MJOLEOS
+@MJMECANICAOFICIAL
+
+WhatsApp.
+
+71. Rodapé Legal
+© 2026 MJ Óleos Lubrificantes. Todos os direitos reservados.
+
+Caso desejado:
+
+Desenvolvido por Raphael Reis.
+72. Componentes Reutilizáveis
+
+O desenvolvimento deve utilizar componentes reutilizáveis.
+
+Exemplos:
+
+Header
+Button
+SectionTitle
+ServiceCard
+FeatureCard
+SocialCard
+CTASection
+WhatsAppButton
+Footer
+
+Evitar duplicação desnecessária.
+
+73. Arquitetura Visual dos Componentes
+
+Todos os componentes devem respeitar:
+
+Border radius consistente.
+Espaçamento consistente.
+Tipografia consistente.
+Sistema de cores.
+Estados hover.
+Estados focus.
+Responsividade.
+
+Criar um pequeno design system antes de desenvolver todas as seções.
+
+74. Design Tokens
+
+Definir variáveis para:
+
+--color-primary: #123B63;
+--color-primary-dark: #0B243D;
+--color-accent: #E35030;
+--color-white: #FFFFFF;
+--color-light: #F4F6F8;
+--color-gray: #68737D;
+--color-black: #161616;
+
+Também definir:
+
+spacing;
+border-radius;
+shadows;
+typography;
+transitions.
+75. Sistema de Botões
+Primary
+
+Azul/laranja dependendo do contexto.
+
+CTA principal:
+
+background: #E35030
+color: #FFFFFF
+Secondary
+background: transparent
+border: 1px solid #FFFFFF
+
+ou azul dependendo do fundo.
+
+Hover
+
+Nunca remover completamente a identificação do botão.
+
+Aplicar:
+
+leve alteração de cor;
+pequena elevação;
+sombra.
+76. Estados de Interface
+
+Todos os componentes interativos devem considerar:
+
+Default
+Hover
+Focus
+Active
+Disabled
+Loading
+Success
+Error
+
+Principalmente:
+
+Botões.
+Formulário.
+Menu.
+Links.
+Cards.
+77. Conteúdo Visual Necessário
+
+Solicitar ao cliente:
+
+Fotos da oficina
+Fachada.
+Interior.
+Elevadores.
+Área de troca de óleo.
+Equipamentos.
+Mecânicos.
+Equipe.
+Proprietários.
+Fotos de serviço
+Troca de óleo.
+Motor.
+Injeção.
+Suspensão.
+Veículos.
+Identidade
+Logo.
+Logo SVG.
+Logo PNG.
+Versões clara/escura.
+Manual de marca.
+78. Fotografia
+
+Prioridade:
+
+Fotos reais da MJ.
+
+As imagens devem transmitir:
+
+Organização.
+Limpeza.
+Profissionalismo.
+Equipamentos.
+Atendimento.
+
+Evitar imagens excessivamente produzidas que não tenham relação com a realidade da empresa.
+
+79. Direção de Imagem
+
+Tratamento:
+
+Contraste moderado.
+Azul como elemento gráfico.
+Laranja apenas em detalhes.
+Preto para profundidade.
+Preservar aparência real dos veículos.
+
+Não utilizar filtros excessivamente artificiais.
+
+80. Localização Visual
+
+O mapa deve possuir boa proporção.
+
+Desktop:
+
+50% informações
+50% mapa
+
+Mobile:
+
+informações
+↓
+mapa
+81. SEO para Imagens
+
+Cada imagem importante deve possuir:
+
+alt
+
+Exemplo:
+
+MJ Óleos Lubrificantes em Belo Horizonte
+
+Não utilizar keyword stuffing.
+
+82. Compatibilidade
+
+Testar:
+
+Browsers
+Chrome
+Edge
+Firefox
+Safari
+Mobile
+Android Chrome
+iOS Safari
+83. Navegação
+
+Scroll suave:
+
+#inicio
+#sobre
+#servicos
+#hfs
+#instagram
+#contato
+
+Não utilizar scroll extremamente lento.
+
+84. UX — Regra dos 3 segundos
+
+Ao abrir o site, o usuário deve entender:
+
+O que é?
+
+MJ Óleos.
+
+O que faz?
+
+Troca de óleo + manutenção.
+
+Onde?
+
+Belo Horizonte.
+
+O que fazer?
+
+Chamar no WhatsApp.
+
+Se essas quatro informações estiverem claras, o Hero estará cumprindo sua função.
+
+85. UX — Regra do Clique
+
+O usuário nunca deve precisar:
+
+Home
+→ Serviços
+→ Serviço
+→ Contato
+→ WhatsApp
+
+para falar com a empresa.
+
+O WhatsApp deve estar acessível diretamente.
+
+86. Estratégia para Google Ads
+
+O site deve estar preparado para receber tráfego pago.
+
+Principalmente campanhas de:
+
+Troca de óleo.
+Oficina.
+Manutenção automotiva.
+Injeção eletrônica.
+
+Os anúncios podem futuramente direcionar para:
+
+/
+
+ou páginas específicas:
+
+/troca-de-oleo
+/injecao-eletronica
+/manutencao-automotiva
+87. Estratégia para Meta Ads
+
+Instagram e Facebook podem enviar usuários diretamente para:
+
+Home.
+WhatsApp.
+Página específica de serviço.
+
+A página deve carregar rapidamente no mobile.
+
+88. Conversão Mobile
+
+No mobile, a prioridade deve ser:
+
+1. WhatsApp
+2. Serviço
+3. Localização
+4. Instagram
+
+O botão flutuante deve permanecer acessível.
+
+89. Estrutura Técnica Sugerida
+
+Caso seja desenvolvido em React/Next.js:
+
+src/
+├── components/
+│   ├── Header
+│   ├── Hero
+│   ├── Services
+│   ├── About
+│   ├── HFS
+│   ├── Instagram
+│   ├── Location
+│   ├── CTA
+│   ├── Footer
+│   └── WhatsAppButton
+│
+├── sections/
+│
+├── styles/
+│
+├── assets/
+│
+└── app/
+
+Se for utilizado outro framework, manter a mesma lógica de componentização.
+
+90. Dependências
+
+Não adicionar bibliotecas apenas para criar efeitos simples.
+
+Antes de adicionar uma dependência:
+
+Verificar se o efeito pode ser feito com CSS.
+Verificar impacto no bundle.
+Avaliar necessidade real.
+
+Priorizar:
+
+CSS → JavaScript nativo → biblioteca somente quando necessário.
+
+91. Animações — Regra
+
+As animações devem melhorar a experiência.
+
+Nunca utilizar animações simplesmente para "encher" o site.
+
+Princípio:
+
+Se uma animação não melhora a compreensão ou percepção de qualidade, não utilizar.
+
+92. Carregamento
+
+Durante carregamento inicial:
+
+Evitar splash screen longa.
+
+O usuário deve visualizar conteúdo rapidamente.
+
+Não bloquear o site inteiro por causa de:
+
+Instagram.
+Maps.
+Analytics.
+imagens secundárias.
+93. Google Maps
+
+O mapa não deve prejudicar o carregamento inicial.
+
+Considerar:
+
+lazy loading;
+iframe carregado posteriormente;
+botão para abrir Maps.
+94. Instagram
+
+O feed do Instagram também não deve bloquear o carregamento do site.
+
+Caso a API/integration gere impacto:
+
+usar:
+
+imagens estáticas;
+links;
+galeria própria.
+95. Manutenção do Site
+
+O projeto deve permitir alteração futura de:
+
+Fotos.
+Serviços.
+Telefone.
+Instagram.
+Horários.
+Endereço.
+Textos.
+
+Se utilizar CMS, esses dados devem ser administráveis.
+
+96. Escalabilidade
+
+O projeto deve permitir futuramente:
+
+Blog.
+Páginas de serviço.
+Landing pages.
+Google Ads.
+Meta Ads.
+Depoimentos.
+Avaliações Google.
+FAQ.
+Promoções.
+Formulário avançado.
+Sistema de agendamento.
+
+Não implementar funcionalidades complexas sem necessidade na primeira versão.
+
+97. FAQ — Preparação
+
+A arquitetura deve permitir futuramente uma seção FAQ.
+
+Possíveis perguntas:
+
+Quando devo trocar o óleo do carro?
+
+Qual óleo devo usar?
+
+Vocês atendem carros de linha leve?
+
+Onde a MJ Óleos está localizada?
+
+Como agendar atendimento?
+
+As respostas finais devem ser validadas pela empresa antes da publicação.
+
+98. Avaliações
+
+Caso o cliente possua avaliações reais no Google, adicionar futuramente uma seção:
+
+O que nossos clientes dizem
+
+Importante:
+
+Não criar avaliações fictícias.
+
+Utilizar somente avaliações reais e verificáveis.
+
+99. Critérios de Aceitação — Funcionalidade
+ Header funcional.
+ Menu mobile funcional.
+ Scroll suave.
+ WhatsApp funcionando.
+ WhatsApp flutuante funcionando.
+ Instagram MJ Óleos funcionando.
+ Instagram MJ Mecânica funcionando.
+ Google Maps funcionando.
+ Formulário funcionando.
+ Validação do formulário funcionando.
+ Estados de erro funcionando.
+ Estado de sucesso funcionando.
+ Todos os CTAs funcionando.
+ Links externos abrindo corretamente.
+100. Critérios de Aceitação — Design
+ Azul é a cor dominante.
+ Branco cria equilíbrio.
+ Laranja é utilizado somente em detalhes/ações.
+ Identidade automotiva presente.
+ Visual moderno.
+ Visual profissional.
+ Não parece template genérico.
+ Cards possuem hover.
+ Botões possuem hover.
+ Imagens possuem tratamento consistente.
+ Tipografia possui hierarquia clara.
+ Espaçamento consistente.
+101. Critérios de Aceitação — Responsividade
+ 360px.
+ 375px.
+ 390px.
+ 414px.
+ 430px.
+ 768px.
+ 1024px.
+ 1366px.
+ 1440px.
+ 1920px.
+
+Não pode haver:
+
+Overflow horizontal.
+Texto cortado.
+Botões fora da tela.
+Imagens deformadas.
+Menu quebrado.
+Cards ultrapassando containers.
+102. Critérios de Aceitação — SEO
+ H1 único.
+ Title configurado.
+ Meta description configurada.
+ Canonical configurado.
+ Sitemap.
+ Robots.
+ Open Graph.
+ Alt text.
+ Schema.
+ NAP consistente.
+ Endereço correto.
+ Telefone correto.
+ SEO local para Belo Horizonte.
+ SEO local para Sarandi.
+103. Critérios de Aceitação — Performance
+ Imagens comprimidas.
+ WebP/AVIF.
+ Lazy loading.
+ JavaScript otimizado.
+ CSS otimizado.
+ Fontes otimizadas.
+ Sem bibliotecas desnecessárias.
+ Sem animações pesadas.
+ Maps não bloqueia carregamento.
+ Instagram não bloqueia carregamento.
+104. Critérios de Aceitação — Acessibilidade
+ Contraste adequado.
+ Alt text.
+ Focus states.
+ Navegação por teclado.
+ Labels.
+ Botões acessíveis.
+ Tamanho adequado de toque.
+ Reduced motion.
+105. Critérios de Aceitação — Analytics
+ GA4 preparado.
+ WhatsApp tracking.
+ Instagram tracking.
+ Maps tracking.
+ Form submit tracking.
+ CTA tracking.
+ Estrutura preparada para GTM.
+106. Informações que NÃO devem ser inventadas
+
+O desenvolvedor/IA não deve inventar:
+
+Preços.
+Promoções.
+Horários.
+Marcas de óleo.
+Certificações.
+Quantidade de clientes.
+Quantidade de funcionários.
+Avaliações.
+Garantias.
+Parceiros.
+Equipamentos específicos.
+Serviços que não foram informados.
+Tempo de experiência além de 2021.
+Números de atendimento.
+Informações técnicas não confirmadas.
+
+Quando alguma informação estiver faltando, utilizar um placeholder claramente identificado ou solicitar a informação.
+
+Não preencher com dados fictícios.
+
+107. Regra para Imagens
+
+Se não houver fotos reais disponíveis durante o desenvolvimento:
+
+utilizar placeholders ou imagens temporárias claramente substituíveis.
+
+Não criar falsa impressão de que determinada oficina, mecânico ou veículo pertence à MJ caso seja uma imagem de banco.
+
+108. Regra para Textos
+
+O conteúdo deve ser:
+
+Direto.
+Profissional.
+Natural.
+Comercial sem ser agressivo.
+Fácil de ler.
+
+Evitar:
+
+"Somos líderes absolutos..."
+
+"A melhor oficina de Belo Horizonte..."
+
+"Referência número 1..."
+
+Sem evidência verificável.
+
+109. Tom de Comunicação
+
+A marca deve falar de maneira:
+
+Profissional + próxima + confiável.
+
+Não deve parecer:
+
+excessivamente corporativa;
+informal demais;
+técnica demais;
+agressiva comercialmente.
+110. Resultado Visual Esperado
+
+O site final deve parecer uma empresa automotiva moderna e estabelecida.
+
+A sensação desejada:
+
+CONFIANÇA
+   +
+PROFISSIONALISMO
+   +
+TECNOLOGIA
+   +
+CUIDADO
+   +
+CONVERSÃO
+
+A identidade deve ser reconhecida principalmente por:
+
+Azul + Branco + detalhes Laranja + estética automotiva moderna.
+
+111. Hierarquia Visual Final
+
+A prioridade visual deve seguir:
+
+1. TROCA DE ÓLEO
+2. WHATSAPP
+3. CONFIANÇA
+4. SERVIÇOS
+5. LOCALIZAÇÃO
+6. HFS
+7. INSTAGRAM
+112. Regra Geral para o Desenvolvedor
+
+O site não deve ser desenvolvido simplesmente como uma sequência de blocos bonitos.
+
+Cada seção deve possuir uma função:
+
+Hero
+→ explicar
+
+Especialização
+→ posicionar
+
+Sobre
+→ humanizar
+
+HFS
+→ gerar confiança
+
+Serviços
+→ informar
+
+Manutenção preventiva
+→ educar
+
+Instagram
+→ gerar prova social/conexão
+
+CTA
+→ converter
+
+Localização
+→ facilitar visita
+113. Regra de Conversão
+
+Em caso de dúvida entre uma solução visualmente bonita e uma solução que melhora a clareza/conversão, priorizar:
+
+clareza + experiência + conversão.
+
+O site não deve sacrificar velocidade e usabilidade para criar efeitos visuais.
+
+114. Regra de Performance
+
+Não utilizar:
+
+vídeo pesado no Hero;
+backgrounds gigantes;
+dezenas de animações;
+bibliotecas desnecessárias;
+efeitos que exigem processamento excessivo.
+
+O site deve continuar rápido principalmente no 4G e dispositivos móveis intermediários.
+
+115. Regra de Responsividade
+
+Toda decisão de design deve ser validada em:
+
+desktop + tablet + mobile.
+
+Não considerar o projeto concluído apenas porque funciona em uma tela de computador.
+
+116. Regra de Componentização
+
+Elementos repetidos devem ser componentes reutilizáveis.
+
+Não duplicar código desnecessariamente.
+
+Exemplo:
+
+ServiceCard
+SocialCard
+Button
+SectionHeader
+117. Regra de Manutenção
+
+O código deve ser:
+
+organizado;
+legível;
+componentizado;
+documentado quando necessário;
+sem código morto;
+sem imports não utilizados;
+sem dependências desnecessárias.
+118. Definition of Done
+
+O projeto só deve ser considerado concluído quando:
+
+Visual
+ Design final implementado.
+ Identidade azul/branco implementada.
+ Laranja limitado aos detalhes.
+ Todas as seções implementadas.
+ Hover funcionando.
+ Animações funcionando.
+Funcional
+ WhatsApp.
+ Instagram.
+ Maps.
+ Formulário.
+ Menu.
+ CTAs.
+SEO
+ SEO on-page.
+ SEO local.
+ Schema.
+ Metadata.
+ Sitemap.
+Performance
+ Imagens otimizadas.
+ Lazy loading.
+ JS otimizado.
+ CSS otimizado.
+Responsividade
+ Mobile.
+ Tablet.
+ Desktop.
+Qualidade
+ Sem erros no console.
+ Sem links quebrados.
+ Sem overflow.
+ Sem textos cortados.
+ Sem imagens quebradas.
+ Sem informações fictícias.
+119. Checklist Final
+[ ] Logo
+[ ] Header
+[ ] Menu desktop
+[ ] Menu mobile
+[ ] Hero
+[ ] CTA Hero
+[ ] Indicadores
+[ ] Especialização em troca de óleo
+[ ] Sobre
+[ ] HFS
+[ ] Serviços
+[ ] Hover dos serviços
+[ ] Manutenção preventiva
+[ ] Seção visual
+[ ] Instagram MJ Óleos
+[ ] Instagram MJ Mecânica
+[ ] Galeria
+[ ] CTA final
+[ ] WhatsApp flutuante
+[ ] Localização
+[ ] Google Maps
+[ ] Footer
+[ ] SEO
+[ ] SEO local
+[ ] Schema
+[ ] Analytics
+[ ] Tracking
+[ ] Formulário
+[ ] Validação
+[ ] Loading
+[ ] Success
+[ ] Error
+[ ] Responsividade
+[ ] Acessibilidade
+[ ] Performance
+[ ] Segurança
+[ ] Open Graph
+[ ] Favicon
+[ ] Sitemap
+[ ] Robots.txt
+[ ] Testes finais
+120. Instrução Final para o Claude
+
+Este documento deve ser tratado como a especificação principal do projeto.
+
+Não criar um site genérico de oficina.
+
+Não reduzir o projeto a uma simples landing page com alguns cards.
+
+Não inventar informações sobre a empresa.
+
+Não utilizar avaliações, números, preços, horários, certificações ou diferenciais que não tenham sido fornecidos.
+
+Priorizar fotos reais da empresa quando disponíveis.
+
+O resultado deve ser um site profissional, moderno, rápido, responsivo, visualmente marcante e orientado à conversão, com foco principal em troca de óleo, mas apresentando a MJ Óleos como uma solução completa para manutenção de veículos de linha leve.
+
+A identidade visual deve seguir rigorosamente:
+
+PRIMARY: #123B63
+DARK:    #0B243D
+WHITE:   #FFFFFF
+ACCENT:  #E35030
+LIGHT:   #F4F6F8
+GRAY:    #68737D
+BLACK:   #161616
+
+Azul e branco são as cores predominantes.
+
+Laranja é apenas cor de destaque/ação.
+
+O principal objetivo de negócio é:
+
+fazer o visitante entrar em contato com a MJ Óleos pelo WhatsApp.
+
+O principal objetivo de SEO é:
+
+posicionar a empresa para buscas relacionadas a troca de óleo, manutenção automotiva e serviços mecânicos em Belo Horizonte, especialmente na região do Sarandi.
+
+O site deve estar preparado para posteriormente receber Google Ads, Meta Ads, SEO local, Google Analytics, Google Tag Manager e páginas específicas para cada serviço.
+
+Não implemente tudo de forma excessivamente complexa apenas porque é possível. Priorize uma experiência excelente, código limpo, velocidade, clareza e conversão.
